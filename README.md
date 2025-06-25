@@ -1,8 +1,33 @@
 # 📱 Mobile Sales Data Analysis Dashboard
 
+## 📚 Table of Contents
+- [Project Overview](#project-overview)
+- [Live Dashboard](#live-dashboard)
+- [Business Objectives](#business-objectives)
+- [Key Findings & Insights](#key-findings--insights)
+- [Technical Implementation](#technical-implementation)
+- [Dashboard Components](#dashboard-components)
+- [Visualization Highlights](#visualization-highlights)
+- [Repository Structure](#repository-structure)
+- [Getting Started](#getting-started)
+- [Business Recommendations](#business-recommendations)
+- [Key Metrics Dashboard](#key-metrics-dashboard)
+- [Analytical Methodology](#analytical-methodology)
+- [Future Enhancements](#future-enhancements)
+- [About the Author](#about-the-author)
+- [Project Context](#project-context)
+- [Acknowledgments](#acknowledgments)
 ## Project Overview
 
 This project presents a comprehensive data analysis of mobile phone sales for **FerMac Mobile Enterprises**, a a fictional mobile phone retailer operating across multiple countries. Using Power BI, I developed an interactive dashboard that transforms raw sales data into actionable business insights, revealing key trends in customer behavior, product performance, and regional sales patterns.
+
+## 🚀 Live Dashboard
+
+**🔗 [View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/75790c25-5c4a-40ca-bbf1-e693df1fb82f/524f33fc178378013a41?experience=power-bi)**
+
+## 🖼 Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
 
 ## 🎯 Business Objectives
 
